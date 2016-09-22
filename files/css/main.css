@@ -1,0 +1,25 @@
+#image_preview {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	position: relative;
+	-webkit-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+    	user-select: none;
+	-webkit-flex-wrap: nowrap;
+		-ms-flex-wrap: nowrap;
+    	flex-wrap: nowrap;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: reverse;
+	-webkit-flex-direction: column-reverse;
+		-ms-flex-direction: column-reverse;
+    	flex-direction: column-reverse;
+	-ms-interpolation-mode: nearest-neighbor;
+	image-rendering: -webkit-optimize-contrast;
+	image-rendering: -webkit-crisp-edges;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: -o-crisp-edges;
+	image-rendering: pixelated;
+}

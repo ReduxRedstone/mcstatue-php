@@ -1,0 +1,30 @@
+/summon ArmorStand ~3.90625 ~-2.175 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~4.15625 ~-3.175 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~3.90625 ~-3.925 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~4.15625 ~-4.925 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~3.90625 ~-5.675 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~4.15625 ~-6.675 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~3.65625 ~-7.425 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~3.90625 ~-8.425 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~4.15625 ~-9.425 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~4.40625 ~-10.425 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~3.65625 ~-11.175 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~3.90625 ~-12.175 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~4.15625 ~-13.175 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~4.40625 ~-14.175 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~3.65625 ~-14.925 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~3.90625 ~-15.925 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~4.15625 ~-16.925 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~4.40625 ~-17.925 ~-.125 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~3.90625 ~-18.675 ~ {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~4.15625 ~-19.675 ~ {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~3.90625 ~-20.675 ~-.25 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~4.15625 ~-21.675 ~-.25 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~3.90625 ~-22.425 ~ {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~4.15625 ~-23.425 ~ {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~3.90625 ~-24.425 ~-.25 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+/summon ArmorStand ~4.15625 ~-25.425 ~-.25 {Pose:{RightArm:[-45f,45f,0f]},HandItems:[{id:"minecraft:skull",Count:1,Damage:3}],NoGravity:1,Invisible:1}
+
+
+
+,tag:{SkullOwner:{Id:"a8b5c720-34c0-424f-a9bf-a2ec77defad2",Properties:{textures:[{Value:eyJ0aW1lc3RhbXAiOjE0NzQ1MTE4MzI4ODEsInByb2ZpbGVJZCI6ImE4YjVjNzIwMzRjMDQyNGZhOWJmYTJlYzc3ZGVmYWQyIiwicHJvZmlsZU5hbWUiOiJSZWR1eFJlZHN0b25lIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NmNDE1ZGI3ZGFiY2I3ODg3MmY2NDM2YmZmYzhlMjkwZmNhZTZhYTM5MzkzZWVmNTU0MzJhMjMxNDQyYzQifX19}]}}}
