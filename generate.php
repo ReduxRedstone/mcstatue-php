@@ -117,8 +117,10 @@ for ($i=0; $i < 26; $i++) {
 
 	*/
 
-
-
+	###########################################
+	#    NEED TO ADD FUNCTIONS TO CUT SKIN    #
+	###########################################
+	
 	$image = $imgur->uploadImage("skins/$randName/$randName-$i.png");
 	$image = json_decode($image, true);
 
